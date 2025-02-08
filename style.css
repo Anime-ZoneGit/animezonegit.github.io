@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #1a1a2e;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+    background: linear-gradient(135deg, #ff7eb3, #ff758c);
+}
+
+.logo {
+    width: 120px;
+    height: auto;
+}
+
+#clock {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.video-section {
+    margin: 20px;
+}
+
+.social-media a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    color: white;
+    background: #ff758c;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.social-media a:hover {
+    background: #ff7eb3;
+}
+
+footer {
+    padding: 10px;
+    background: #0f3460;
+}
